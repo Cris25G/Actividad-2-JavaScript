@@ -1,0 +1,17 @@
+body{
+    background:rgb(218, 245, 144);
+}
+
+#titulo {
+    text-align: center;
+    color: rgb(73, 3, 3);
+}
+
+.imagen-content > img {
+    width: 400px;
+    height: auto;
+}
+    
+body figcaption {
+    color: black;
+}
